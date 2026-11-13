@@ -1,0 +1,496 @@
+{
+  "uniqueValidated": 314,
+  "contentCeiling": null,
+  "addedThisExpansion": 158,
+  "packs": [
+    {
+      "id": "structures-original-1",
+      "level": "mixed",
+      "category": "structures",
+      "difficulty": "editorial",
+      "count": 36
+    },
+    {
+      "id": "reading-original-1",
+      "level": "mixed",
+      "category": "reading",
+      "difficulty": "editorial",
+      "count": 36
+    },
+    {
+      "id": "listening-original-1",
+      "level": "mixed",
+      "category": "listening",
+      "difficulty": "editorial",
+      "count": 36
+    },
+    {
+      "id": "precision-01-structures",
+      "level": "mixed",
+      "category": "structures",
+      "difficulty": "editorial",
+      "count": 24
+    },
+    {
+      "id": "precision-01-reading",
+      "level": "mixed",
+      "category": "reading",
+      "difficulty": "editorial",
+      "count": 12
+    },
+    {
+      "id": "precision-01-listening",
+      "level": "mixed",
+      "category": "listening",
+      "difficulty": "editorial",
+      "count": 12
+    },
+    {
+      "id": "annonces-02-l-a1",
+      "level": "A1",
+      "category": "listening",
+      "difficulty": "fondamental",
+      "count": 1
+    },
+    {
+      "id": "annonces-02-l-a2",
+      "level": "A2",
+      "category": "listening",
+      "difficulty": "élémentaire",
+      "count": 1
+    },
+    {
+      "id": "echanges-02-l-b1",
+      "level": "B1",
+      "category": "listening",
+      "difficulty": "intermédiaire",
+      "count": 2
+    },
+    {
+      "id": "dialogues-03-l-b2",
+      "level": "B2",
+      "category": "listening",
+      "difficulty": "avancé",
+      "count": 2
+    },
+    {
+      "id": "entretiens-02-l-b2",
+      "level": "B2",
+      "category": "listening",
+      "difficulty": "avancé",
+      "count": 4
+    },
+    {
+      "id": "conferences-02-l-c1",
+      "level": "C1",
+      "category": "listening",
+      "difficulty": "expert",
+      "count": 5
+    },
+    {
+      "id": "pratiques-03-l-c1",
+      "level": "C1",
+      "category": "listening",
+      "difficulty": "expert",
+      "count": 2
+    },
+    {
+      "id": "debats-02-l-c2",
+      "level": "C2",
+      "category": "listening",
+      "difficulty": "maîtrise",
+      "count": 5
+    },
+    {
+      "id": "pragmatique-03-l-c2",
+      "level": "C2",
+      "category": "listening",
+      "difficulty": "maîtrise",
+      "count": 2
+    },
+    {
+      "id": "vie-pratique-02-r-a1",
+      "level": "A1",
+      "category": "reading",
+      "difficulty": "fondamental",
+      "count": 1
+    },
+    {
+      "id": "vie-pratique-02-r-a2",
+      "level": "A2",
+      "category": "reading",
+      "difficulty": "élémentaire",
+      "count": 1
+    },
+    {
+      "id": "situations-02-r-b1",
+      "level": "B1",
+      "category": "reading",
+      "difficulty": "intermédiaire",
+      "count": 2
+    },
+    {
+      "id": "contextes-03-r-b2",
+      "level": "B2",
+      "category": "reading",
+      "difficulty": "avancé",
+      "count": 2
+    },
+    {
+      "id": "documents-02-r-b2",
+      "level": "B2",
+      "category": "reading",
+      "difficulty": "avancé",
+      "count": 4
+    },
+    {
+      "id": "correspondances-03-r-c1",
+      "level": "C1",
+      "category": "reading",
+      "difficulty": "expert",
+      "count": 2
+    },
+    {
+      "id": "textes-02-r-c1",
+      "level": "C1",
+      "category": "reading",
+      "difficulty": "expert",
+      "count": 5
+    },
+    {
+      "id": "essais-02-r-c2",
+      "level": "C2",
+      "category": "reading",
+      "difficulty": "maîtrise",
+      "count": 5
+    },
+    {
+      "id": "raisonnements-03-r-c2",
+      "level": "C2",
+      "category": "reading",
+      "difficulty": "maîtrise",
+      "count": 2
+    },
+    {
+      "id": "fondations-02-s-a1",
+      "level": "A1",
+      "category": "structures",
+      "difficulty": "fondamental",
+      "count": 8
+    },
+    {
+      "id": "communication-02-s-a2",
+      "level": "A2",
+      "category": "structures",
+      "difficulty": "élémentaire",
+      "count": 8
+    },
+    {
+      "id": "recits-02-s-b1",
+      "level": "B1",
+      "category": "structures",
+      "difficulty": "intermédiaire",
+      "count": 10
+    },
+    {
+      "id": "lexique-03-s-b2",
+      "level": "B2",
+      "category": "structures",
+      "difficulty": "avancé",
+      "count": 6
+    },
+    {
+      "id": "nuances-02-s-b2",
+      "level": "B2",
+      "category": "structures",
+      "difficulty": "avancé",
+      "count": 14
+    },
+    {
+      "id": "academique-02-s-c1",
+      "level": "C1",
+      "category": "structures",
+      "difficulty": "expert",
+      "count": 16
+    },
+    {
+      "id": "locutions-04-s-c1",
+      "level": "C1",
+      "category": "structures",
+      "difficulty": "expert",
+      "count": 8
+    },
+    {
+      "id": "paronymes-03-s-c1",
+      "level": "C1",
+      "category": "structures",
+      "difficulty": "expert",
+      "count": 8
+    },
+    {
+      "id": "articulations-04-s-c2",
+      "level": "C2",
+      "category": "structures",
+      "difficulty": "maîtrise",
+      "count": 8
+    },
+    {
+      "id": "lexique-03-s-c2",
+      "level": "C2",
+      "category": "structures",
+      "difficulty": "maîtrise",
+      "count": 8
+    },
+    {
+      "id": "precision-02-s-c2",
+      "level": "C2",
+      "category": "structures",
+      "difficulty": "maîtrise",
+      "count": 16
+    }
+  ],
+  "sourceFiles": [
+    {
+      "src": "data/structures.js",
+      "packs": [
+        "structures-original-1"
+      ]
+    },
+    {
+      "src": "data/reading.js",
+      "packs": [
+        "reading-original-1"
+      ]
+    },
+    {
+      "src": "data/listening.js",
+      "packs": [
+        "listening-original-1"
+      ]
+    },
+    {
+      "src": "data/pack-precision-01.js",
+      "packs": [
+        "precision-01-structures",
+        "precision-01-reading",
+        "precision-01-listening"
+      ]
+    },
+    {
+      "src": "data/packs/listening/a1-a2-annonces-02.js",
+      "packs": [
+        "annonces-02-l-a1",
+        "annonces-02-l-a2"
+      ]
+    },
+    {
+      "src": "data/packs/listening/b1-echanges-02.js",
+      "packs": [
+        "echanges-02-l-b1"
+      ]
+    },
+    {
+      "src": "data/packs/listening/b2-dialogues-03.js",
+      "packs": [
+        "dialogues-03-l-b2"
+      ]
+    },
+    {
+      "src": "data/packs/listening/b2-entretiens-02.js",
+      "packs": [
+        "entretiens-02-l-b2"
+      ]
+    },
+    {
+      "src": "data/packs/listening/c1-conferences-02.js",
+      "packs": [
+        "conferences-02-l-c1"
+      ]
+    },
+    {
+      "src": "data/packs/listening/c1-pratiques-03.js",
+      "packs": [
+        "pratiques-03-l-c1"
+      ]
+    },
+    {
+      "src": "data/packs/listening/c2-debats-02.js",
+      "packs": [
+        "debats-02-l-c2"
+      ]
+    },
+    {
+      "src": "data/packs/listening/c2-pragmatique-03.js",
+      "packs": [
+        "pragmatique-03-l-c2"
+      ]
+    },
+    {
+      "src": "data/packs/reading/a1-a2-vie-pratique-02.js",
+      "packs": [
+        "vie-pratique-02-r-a1",
+        "vie-pratique-02-r-a2"
+      ]
+    },
+    {
+      "src": "data/packs/reading/b1-situations-02.js",
+      "packs": [
+        "situations-02-r-b1"
+      ]
+    },
+    {
+      "src": "data/packs/reading/b2-contextes-03.js",
+      "packs": [
+        "contextes-03-r-b2"
+      ]
+    },
+    {
+      "src": "data/packs/reading/b2-documents-02.js",
+      "packs": [
+        "documents-02-r-b2"
+      ]
+    },
+    {
+      "src": "data/packs/reading/c1-correspondances-03.js",
+      "packs": [
+        "correspondances-03-r-c1"
+      ]
+    },
+    {
+      "src": "data/packs/reading/c1-textes-02.js",
+      "packs": [
+        "textes-02-r-c1"
+      ]
+    },
+    {
+      "src": "data/packs/reading/c2-essais-02.js",
+      "packs": [
+        "essais-02-r-c2"
+      ]
+    },
+    {
+      "src": "data/packs/reading/c2-raisonnements-03.js",
+      "packs": [
+        "raisonnements-03-r-c2"
+      ]
+    },
+    {
+      "src": "data/packs/structures/a1-fondations-02.js",
+      "packs": [
+        "fondations-02-s-a1"
+      ]
+    },
+    {
+      "src": "data/packs/structures/a2-communication-02.js",
+      "packs": [
+        "communication-02-s-a2"
+      ]
+    },
+    {
+      "src": "data/packs/structures/b1-recits-02.js",
+      "packs": [
+        "recits-02-s-b1"
+      ]
+    },
+    {
+      "src": "data/packs/structures/b2-lexique-03.js",
+      "packs": [
+        "lexique-03-s-b2"
+      ]
+    },
+    {
+      "src": "data/packs/structures/b2-nuances-02.js",
+      "packs": [
+        "nuances-02-s-b2"
+      ]
+    },
+    {
+      "src": "data/packs/structures/c1-academique-02.js",
+      "packs": [
+        "academique-02-s-c1"
+      ]
+    },
+    {
+      "src": "data/packs/structures/c1-locutions-04.js",
+      "packs": [
+        "locutions-04-s-c1"
+      ]
+    },
+    {
+      "src": "data/packs/structures/c1-paronymes-03.js",
+      "packs": [
+        "paronymes-03-s-c1"
+      ]
+    },
+    {
+      "src": "data/packs/structures/c2-articulations-04.js",
+      "packs": [
+        "articulations-04-s-c2"
+      ]
+    },
+    {
+      "src": "data/packs/structures/c2-lexique-03.js",
+      "packs": [
+        "lexique-03-s-c2"
+      ]
+    },
+    {
+      "src": "data/packs/structures/c2-precision-02.js",
+      "packs": [
+        "precision-02-s-c2"
+      ]
+    }
+  ],
+  "byLevel": {
+    "A1": {
+      "listening": 8,
+      "reading": 8,
+      "structures": 16
+    },
+    "A2": {
+      "listening": 8,
+      "reading": 8,
+      "structures": 16
+    },
+    "B1": {
+      "listening": 9,
+      "reading": 9,
+      "structures": 18
+    },
+    "B2": {
+      "listening": 15,
+      "reading": 15,
+      "structures": 32
+    },
+    "C1": {
+      "listening": 16,
+      "reading": 16,
+      "structures": 44
+    },
+    "C2": {
+      "listening": 16,
+      "reading": 16,
+      "structures": 44
+    }
+  },
+  "totalsByLevel": {
+    "A1": 32,
+    "A2": 32,
+    "B1": 36,
+    "B2": 62,
+    "C1": 76,
+    "C2": 76
+  },
+  "byCategory": {
+    "listening": 72,
+    "reading": 72,
+    "structures": 170
+  },
+  "rejected": [],
+  "audio": {
+    "humanRecordingsBundled": 0,
+    "originalListeningScripts": 72,
+    "fallback": "Browser speech synthesis; French voice required"
+  },
+  "notice": "Automated structural validation is not independent linguistic or CEFR calibration. Scale fixtures are excluded."
+}
